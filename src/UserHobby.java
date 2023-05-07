@@ -5,7 +5,7 @@ public class UserHobby {
         System.out.println("Enter your first name: ");
         Scanner scanner = new Scanner(System.in);
         String firstName = scanner.nextLine();
-        System.out.println("Enter your last name: ");
+        System.out.println("Enter your surname: ");
         String lastName = scanner.nextLine();
         System.out.println("Enter your hobby: ");
         String hobby = scanner.nextLine();
